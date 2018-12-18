@@ -1,0 +1,34 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  background: #6842f4;
+  height: 56px;
+}
+
+.navbar_contents-items ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar_contents-items li {
+  padding-left: 10px;
+  padding-right: 24px;
+}
+.navbar_contents {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding: 0 1ren;
+}
+
+.navbar_contents-items a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar_contents-items a:hover,
+.navbar_contents-items a:active {
+  color: red;
+}

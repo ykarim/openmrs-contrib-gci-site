@@ -1,0 +1,7 @@
+.footer{
+  position: fixed;
+  width: 100%;
+  background: #716d7c;
+  height: 60px;
+  bottom: 0;
+}
