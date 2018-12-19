@@ -2,6 +2,7 @@
 
 OpenMRS Google Code-In Website
 ==============================
+[![GCI Website Telegram Chat](https://img.shields.io/badge/GCI%20Website-Join%20chat-blue.svg)](https://t.me/openmrsgcisite) [![OpenMRS Telegram chat](https://img.shields.io/badge/OpenMRS-Join%20chat-blue.svg)](https://t.me/openmrs) [![OpenMRS Talk](https://img.shields.io/discourse/https/meta.discourse.org/status.svg)](https://talk.openmrs.org)
 
 ## Table of Contents
 * [Description](#description)
