@@ -92,3 +92,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # License
 This project is licensed under the OpenMRS Public License, see the [license](LICENSE) file for details.
+
+# Telegram Chat
+Join [this Telegram chat](https://t.me/joinchat/EKjttk-RVASZbqN2xM1FFQ) if you are intreasted on working on this project.
