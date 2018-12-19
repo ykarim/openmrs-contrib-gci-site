@@ -10,6 +10,7 @@ OpenMRS Google Code-In Website
 * [Development](#development)
   * [Code Style](#code-style)
 * [Getting Started](#getting-started)
+* [Telegram Chat](#telegram-chat)
 * [License](#license)
   
 # Description
@@ -89,6 +90,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Telegram Chat
+If someone is interested on working on this project and getting updated with it join [this Telegram chat](https://t.me/joinchat/EKjttk-RVASZbqN2xM1FFQ).
+
+If someone wants to join the official OpenMRS group click on [this link](https://t.me/OpenMRS).
 
 # License
 This project is licensed under the OpenMRS Public License, see the [license](LICENSE) file for details.
