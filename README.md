@@ -93,7 +93,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Telegram Chat
-If someone is interested on working in this project and getting updated with it join [this Telegram chat](https://t.me/joinchat/EKjttk-RVASZbqN2xM1FFQ).
+If someone is interested on working on this project and getting updated with it join [this Telegram chat](https://t.me/joinchat/EKjttk-RVASZbqN2xM1FFQ).
 
 If someone wants to join the official OpenMRS group click on [this link](https://t.me/OpenMRS).
 
