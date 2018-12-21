@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/openmrs-contrib-gci-site/precache-manifest.0bafcf3f4f2d755c92f3929018363e64.js"
+  "/openmrs-contrib-gci-site/precache-manifest.1356d4e0f617d2dc0293b95ac050e540.js"
 );
 
 workbox.clientsClaim();
