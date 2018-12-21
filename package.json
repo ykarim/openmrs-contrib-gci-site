@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "http://ykarim.github.io/openmrs-contrib-gci-site",
   "dependencies": {
+    "bulma": "^0.7.2",
+    "node-sass": "^4.11.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
