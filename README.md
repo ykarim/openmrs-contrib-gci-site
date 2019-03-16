@@ -13,9 +13,9 @@ OpenMRS Google Code-In Website
 * [Getting Started](#getting-started)
 * [Telegram Chat](#telegram-chat)
 * [License](#license)
-  
+
 # Description
-This project is made to cater to the upcoming new participants and help them familiarise with OpenMRS as well as Google Code-In. This website can be a great resource for new students and will act as a prerequisite for the participants. The website will give complete information about the contest along wtih sources, tips and all necessary details for outsiders as well as students.
+This project is made to cater to the upcoming new participants and help them familiarize with OpenMRS as well as Google Code-In. This website can be a great resource for new students and will act as a prerequisite for the participants. The website will give complete information about the contest along with sources, tips and all necessary details for outsiders as well as students.
 
 #### Key Features
 - Guide newcomers to GCI
@@ -24,14 +24,14 @@ This project is made to cater to the upcoming new participants and help them fam
 - Display information about mentors
 
 # Google Code-In 2018
-This project was started in GCI 2018 through designing UIs. It was further continued to fully build and setup the website.
+This project was started in GCI 2018 through designing UIs. It was further continued to fully build and set up the website.
 
 Many of the previous students continued their support and help the website come together.
 
 # Development
 We use Github itself to track issues and monitor project development. Refer to this link to view all issues and project summary: [GCI Website Issues](https://github.com/ykarim/openmrs-contrib-gci-site/issues)
 
-To get started contributing, check out [OpenMRS Pull Request Tips](https://wiki.openmrs.org/display/docs/Pull+Request+Tips). 
+To get started contributing, check out [OpenMRS Pull Request Tips](https://wiki.openmrs.org/display/docs/Pull+Request+Tips).
 
 ### Code Style
 The coding conventions used by OpenMRS are outlined [here](https://wiki.openmrs.org/display/docs/JavaScript+Conventions).
@@ -82,9 +82,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
